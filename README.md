@@ -1,6 +1,9 @@
 Capstone Project Module 1 - Python Programming
+
 Study Case - Data Nilai Siswa SMA Negeri Dhika 1
+
 Project By Adhitia Septian 
+
 Purwadhika Student Job Connector Data Science & Machine Learning
 
 beberapa dasar-dasar fundamental pemrograman menggunakan python,
@@ -47,4 +50,5 @@ dan terakhir pada menu opsi ke 5 yaitu exit program atau berhenti dari program(K
 Terima kasih
 
 Best Regards
+
 Adhitia Septian
